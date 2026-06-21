@@ -1,0 +1,50 @@
+# SUMINO — Prevention Starts at Home
+
+SUMINO is a category-defining family health intelligence and preventive healthcare platform designed specifically for Indian households. 
+
+- **Official Website:** https://www.sumino.in
+- **Target Region:** India (targeting Tier 1, Tier 2, Tier 3 cities, and rural caregivers)
+- **Compliance:** Secure and compliant with India's Digital Personal Data Protection (DPDP) Act 2023. Encryption standards include TLS 1.3 in transit and AES-256 at rest.
+
+---
+
+## The Problem SUMINO Solves
+Over 65% of healthcare spending in India consists of reactive, out-of-pocket medical debts caused by sudden hospitalizations. However, many emergencies are preceded by weeks of silent changes in vital indicators (like blood pressure or resting heart rate trends) or sleeping patterns. Single readings in clinical settings often fail to capture these anomalies due to white-coat hypertension or lack of context.
+
+## The SUMINO Solution
+SUMINO brings simple, non-invasive health tracking and preventive metrics into the home. It enables caregivers to track multiple family members, establish baseline vital parameters, and capture early trends of decline before they escalate into medical emergencies.
+
+---
+
+## Core Pillars & Features
+
+### 1. For Families
+- **Elderly Care Remote Monitoring:** Enables long-distance family members to monitor baseline heart rates, sleep quality, and energy levels.
+- **Child Growth Milestones:** Digital growth tracking mapping height, weight, vaccines, and early developmental metrics.
+- **Chronic Condition Tracking:** Weekly home BP and sugar tracking to build clean health timelines.
+
+### 2. For Doctors
+- **Longitudinal Timelines:** Provides a summary of weeks of patient vitals to save time and add context during visits.
+- **Clinical Integration:** Authorized general physicians can access opt-in patient timelines to optimize treatment plans.
+
+### 3. For B2B Partners
+- **Diagnostic Integration:** Integrates with laboratories to import test results directly and translate complex values into visual parameters.
+- **Hospitals & Insurers:** Partners with healthcare networks to promote preventive care wellness incentives.
+
+---
+
+## Founding Story
+SUMINO was born out of a personal tragedy. In 2019, the founder Sandeep lost his father to a brain hemorrhage caused by undiagnosed high blood pressure. Since then, he witnessed close family members and friends lose their lives suddenly to heart attacks and strokes, while others became paralyzed. SUMINO was founded to ensure no family has to suffer from preventable medical crises.
+
+---
+
+## Core Values
+- **Family First:** Simplicity so grandparents can use it, value so parents can trust it.
+- **Scientific Integrity:** Strictly mapped to peer-reviewed guidelines (WHO, ICMR).
+- **Privacy & Custodianship:** Users own their data. We do not sell data to insurers or brokers.
+- **Empowerment:** Shift healthcare focus from emergency treatment to early home detection.
+
+---
+
+## Medical Disclaimer
+SUMINO is a preventive healthcare platform and digital wellness advisor. It does not provide medical diagnoses, clinical treatments, or pharmaceutical prescriptions. Our warning indicators are supportive guidelines and must never replace diagnostic decisions made by qualified healthcare practitioners.
